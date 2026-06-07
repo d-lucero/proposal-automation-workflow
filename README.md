@@ -2,7 +2,7 @@
 
 ## Outcome
 
-Reduce proposal preparation time from 3 hours to 30 minutes within 30 days while improving consistency, response times, and proposal quality.
+Reduce proposal preparation time from 3 hours to 30 minutes while improving consistency, response times, and proposal quality.
 
 ---
 
