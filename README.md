@@ -1,5 +1,3 @@
-# Proposal Automation Workflow
-
 ![Proposal Automation Workflow](images/workflow-diagram.png)
 
 ## Outcome
