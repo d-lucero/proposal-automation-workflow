@@ -1,5 +1,7 @@
 # Proposal Automation Workflow
 
+![Proposal Automation Workflow](images/workflow-diagram.png)
+
 ## Outcome
 
 Reduce proposal preparation time from 3 hours to 30 minutes within 30 days while improving consistency, response times, and proposal quality.
@@ -63,7 +65,7 @@ Proposal Delivered
 
 ---
 
-## Expected Outcome
+## Expected Outcomes
 
 ### Faster Proposal Development
 
@@ -71,15 +73,19 @@ Reduce proposal preparation time from 3 hours to 30 minutes within 30 days.
 
 ### Improved Consistency
 
-Standardize proposal language and formatting.
+Standardize proposal language and formatting across projects.
 
 ### Faster Client Response
 
-Reduce delays in responding to prospective clients.
+Accelerate response times to prospective clients and opportunities.
 
 ### Increased Staff Capacity
 
 Allow employees to focus on business development and client relationships.
+
+### Higher Proposal Quality
+
+Improve proposal consistency, professionalism, and formatting standards.
 
 ---
 
@@ -108,6 +114,7 @@ Organizations implementing proposal automation workflows can:
 - Reduce repetitive administrative work
 - Improve client responsiveness
 - Increase staff productivity
+- Create a more scalable proposal process
 
 ---
 
@@ -137,4 +144,4 @@ The objective is to identify the simplest solution that delivers measurable busi
 
 Portfolio Demonstration Project
 
-This project demonstrates a practical proposal automation workflow and is intended as an example of how proposal preparation processes can be redesigned to improve efficiency and consistency.
+This project demonstrates a practical proposal automation workflow and is intended as an example of how proposal preparation processes can be redesigned to improve efficiency, consistency, and client responsiveness.
